@@ -1,0 +1,1 @@
+Hallo, dies ist meine erste erfolgreiche Erfahrung mit Git!
