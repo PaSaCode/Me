@@ -1,1 +1,1 @@
-Hallo, dies ist meine erste erfolgreiche Erfahrung mit Git!
+Diese Repositry ist zur Zwischenspeicherung meiner Arbeiten bestimmt, viel Spaß beim stöbern!~~ :)
